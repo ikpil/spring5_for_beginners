@@ -1,2 +1,4 @@
 rootProject.name = 'spring5_for_beginners'
 
+include 'ch2'
+
